@@ -1,3 +1,5 @@
+//Done by AHMAD SAIF
+
 int encoder_pin = 2;  // The pin the encoder is connected           
 unsigned int rpm;     // rpm reading
 volatile byte pulses;  // number of pulses
